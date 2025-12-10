@@ -4,7 +4,7 @@
 // 作者：GB
 // 创建时间：2025-08-03 12:25:40
 // 修改时间：2025-12-09 12:09:23
-// 版本：1.0.1
+// 版本：1.0.1.2
 // 描述：RectTransform精度控制工具编辑器窗口
 // Github：https://github.com/Gaobobo-C/UnityRectransformPrecisionTool.git
 // ============================================
@@ -13,7 +13,7 @@ using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
 
-namespace GB
+namespace GB.Tools.Editor
 {
     /// <summary>
     /// RectTransform精度控制工具
